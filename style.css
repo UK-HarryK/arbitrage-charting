@@ -10,6 +10,7 @@ body{
     justify-content: space-between;
     height: 2em;
     align-items: center;
+    margin-bottom: 10px;
 }
 .icon-wrapper{
     display: flex;
@@ -21,6 +22,11 @@ body{
 }
 .header{
     color: #E65F5C;
+}
+.chart-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 a{
     color: inherit;
